@@ -13,6 +13,9 @@ _Toan Nguyen, Napa Sae-Bae, and Nasir Memon. "DRAW-A-PIN: Authentication using f
 ## The data set
 The data set includes raw data of finger-drawn PIN samples of 20 users over the course of ten days. Each sample contains touch data of four digits in the PIN. Each digit contains five timeseries (x,y-coordinates, pressure, area of touch, and timestamp) captured on a touchscreen when the user draws her PIN. It also includes samples of attackers on two immitation attacks. For more details, please refer to our paper.
 
+Once you download and extract the tarball file, please read **README.txt** for detailed data format.
+Contact the first author for any question you have regarding the data set and this research.
+
 Kindly cite following articles in any of your publication that benefits from the this data set:
 
 _Toan Nguyen, Napa Sae-Bae, and Nasir Memon. "DRAW-A-PIN: Authentication using finger-drawn PIN on touch devices." Computers & Security 66 (2017): 115-128._
